@@ -1,4 +1,4 @@
-# Implementation-of-MC-prediction-for-estimating-the-action-value-function.
+# Ex-6: Implementation-of-MC-prediction-for-estimating-the-action-value-function.
 
 ## Aim
 
